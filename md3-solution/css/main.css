@@ -5,3 +5,37 @@
 .navbar-header {
 	width: 100%;
 }
+
+.navbar-default .navbar-toggle {
+	margin-top: -42px;
+}
+
+#nav-list {
+	background-color: #7bd17f;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#main-content #main-content-p {
+	font-size: 2em;
+}
+
+#nav-list :hover {
+	background-color: grey;
+	color: white;
+}
+
+#main-content-data {
+	background-color: #ddd9d7;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#main-content-data {
+	margin: 0px;
+}
+
+#main-content #main-content-data-p {
+	font-size: 1.5em;
+	padding-top: 10px;
+}
